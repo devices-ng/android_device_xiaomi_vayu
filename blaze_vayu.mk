@@ -11,10 +11,10 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit device configurations
 $(call inherit-product, device/xiaomi/vayu/device.mk)
 
-# Inherit common AOSP Extended configurations
-$(call inherit-product, vendor/aosp/config/common.mk)
+# Inherit common Project Blaze configurations
+$(call inherit-product, vendor/blaze/config/common_full_phone.mk)
 
-PRODUCT_NAME := aosp_vayu
+PRODUCT_NAME := blaze_vayu
 PRODUCT_DEVICE := vayu
 PRODUCT_BRAND := POCO
 PRODUCT_MODEL := Poco X3 Pro
