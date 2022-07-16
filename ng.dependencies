@@ -1,7 +1,9 @@
 [
   {
-    "repository": "vendor_xiaomi_vayu",
-    "target_path": "vendor/xiaomi/vayu"
+    "repository": "ArrowOS-devices/android_vendor_xiaomi_vayu",
+    "target_path": "vendor/xiaomi/vayu",
+    "remote": "github",
+    "branch": "arrow-12.1"
   },
   {
     "repository": "Jebaitedneko/android_kernel_xiaomi_vayu",
