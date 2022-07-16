@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/blaze_vayu.mk
+    $(LOCAL_DIR)/ng_vayu.mk
 
 COMMON_LUNCH_CHOICES := \
-    blaze_vayu-eng \
-    blaze_vayu-userdebug \
-    blaze_vayu-user
+    ng_vayu-eng \
+    ng_vayu-userdebug \
+    ng_vayu-user
