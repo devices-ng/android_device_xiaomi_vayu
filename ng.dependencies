@@ -2,19 +2,20 @@
   {
     "repository": "ArrowOS-devices/android_vendor_xiaomi_vayu",
     "target_path": "vendor/xiaomi/vayu",
-    "remote": "github",
     "branch": "arrow-12.1"
   },
   {
     "repository": "Jebaitedneko/android_kernel_xiaomi_vayu",
     "target_path": "kernel/xiaomi/vayu",
-    "remote": "github",
     "branch": "r2"
   },
   {
     "repository": "ArrowOS-Devices/android_packages_apps_GCamGOPrebuilt",
     "target_path": "packages/apps/GCamGOPrebuilt",
-    "remote": "github",
     "branch": "arrow-12.1"
+  },
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi"
   }
 ]
