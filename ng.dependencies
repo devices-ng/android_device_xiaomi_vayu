@@ -17,5 +17,11 @@
   {
     "repository": "LineageOS/android_hardware_xiaomi",
     "target_path": "hardware/xiaomi"
+  },
+  {
+    "repository": "PixelExperience/prebuilts_clang_kernel_linux-x86_clang-r416183b",
+    "target_path": "prebuilts/clang/kernel/linux-x86/clang-r416183b",
+    "branch": "thirteen",
+    "clone_depth": "1"
   }
 ]
