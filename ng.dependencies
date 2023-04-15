@@ -5,9 +5,9 @@
     "branch": "arrow-13.1"
   },
   {
-    "repository": "Jebaitedneko/android_kernel_xiaomi_vayu",
+    "repository": "devices-ng/android_kernel_xiaomi_vayu",
     "target_path": "kernel/xiaomi/vayu",
-    "branch": "r2"
+    "branch": "ng-v4"
   },
   {
     "repository": "ArrowOS-Devices/android_packages_apps_GCamGOPrebuilt",
