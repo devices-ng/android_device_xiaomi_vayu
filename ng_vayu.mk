@@ -28,3 +28,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_MODEL=M2102J20SI
 
 BUILD_FINGERPRINT := Xiaomi/vayu_global/vayu:12/RKQ1.200826.002/V13.0.5.0.SJUMIXM:user/release-keys
+
+# droid-ng specific
+TARGET_GAPPS_ARCH := arm64
